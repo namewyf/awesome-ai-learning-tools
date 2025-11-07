@@ -229,10 +229,10 @@ Now Claude can answer questions about AI learning tools and how they work
 
 ## Star History
 
-<a href="https://star-history.com/#YOUR_USERNAME/awesome-ai-learning-tools&Date">
+<a href="https://star-history.com/#namewyf/awesome-ai-learning-tools&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=YOUR_USERNAME/awesome-ai-learning-tools&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=YOUR_USERNAME/awesome-ai-learning-tools&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=YOUR_USERNAME/awesome-ai-learning-tools&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=namewyf/awesome-ai-learning-tools&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=namewyf/awesome-ai-learning-tools&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=namewyf/awesome-ai-learning-tools&type=Date" />
  </picture>
 </a>
