@@ -84,6 +84,8 @@ AI Learning Tools are educational platforms, applications, and services that lev
 > [!NOTE]
 > This directory is continuously updated with the best AI-powered learning tools. Contribute to help us grow this collection!
 
+To be included, each resource must demonstrate a clear AI-enhanced capability that supports teaching, learning, or academic workflows. We prioritize tools with active development, transparent pricing for educational use, and verifiable updates; entries are reviewed during each monthly refresh to keep the directory current with the latest release or feature announcements.
+
 * 🎓 - [Learning Platforms](#learning-platforms-)
 * 🛠️ - [Interactive Tools](#interactive-tools-)
 * 💻 - [Development Environments](#development-environments-)
@@ -124,6 +126,7 @@ Hands-on learning environments and simulators that provide interactive experienc
 - [Brilliant.org](https://brilliant.org/) 🛠️ 🟢 🎯 💵 🌐 📱 - Interactive STEM learning with guided problem-solving and visual simulations
 - [PhET Interactive Simulations](https://phet.colorado.edu/) 🛠️ 🟢 🎯 💰 🌐 - Science and math simulations with inquiry-based learning approach
 - [Replit](https://replit.com/) 🛠️ 🟢 🎯 💵 🌐 - Online coding environment with AI assistance and collaborative features
+- [Labster](https://www.labster.com/) 🛠️ 🟡 🎯 💎 🌐 - Virtual science laboratories with AI-driven feedback and adaptive experimentation pathways
 
 ### 💻 <a name="development-environments-"></a>Development Environments
 
@@ -133,6 +136,8 @@ AI-powered coding platforms, IDEs, and development tools that provide intelligen
 - [Tabnine](https://www.tabnine.com/) 💻 🟢 🎯 💵 🌐 📱 🖥️ - AI assistant for code completion with support for multiple languages and IDEs
 - [Replit AI](https://replit.com/ai) 💻 🟢 🎯 💵 🌐 - AI-powered coding assistant integrated into the Replit development environment
 - [CodeWhisperer](https://aws.amazon.com/codewhisperer/) 💻 🟢 🎯 💵 🌐 🖥️ - Amazon's AI coding companion that provides real-time code recommendations
+- [Cursor](https://www.cursor.com/) 💻 🟡 🎯 💵 🖥️ - AI-first code editor that offers contextual suggestions, refactoring, and in-editor learning tips
+- [Mutable AI](https://www.mutable.ai/) 💻 🟡 🎯 💵 🌐 - AI-assisted development workspace with explainable completions and educational code walkthroughs
 
 ### 📚 <a name="educational-resources-"></a>Educational Resources
 
@@ -153,6 +158,8 @@ AI-powered tools specifically designed to improve writing skills, grammar, and c
 - [Grammarly](https://www.grammarly.com/) ✍️ 🟢 📖 💵 🌐 📱 - AI-powered writing assistant that provides grammar checking, style suggestions, and writing improvement
 - [Quillbot](https://quillbot.com/) ✍️ 🟢 📖 💵 🌐 📱 - AI-powered paraphrasing tool that helps improve writing clarity, tone, and style
 - [Otter AI](https://otter.ai/) ✍️ 🟡 👂 💵 🌐 📱 - AI transcription service that converts speech to text, perfect for lecture notes and meeting summaries
+- [Wordtune](https://www.wordtune.com/) ✍️ 🟢 📖 💵 🌐 📱 - AI writing companion that suggests rewrites and lesson-ready phrasing for essays and assignments
+- [Writefull](https://www.writefull.com/) ✍️ 🟡 📖 💵 🌐 - AI academic writing assistant with discipline-specific language feedback and citation support
 
 ### 🤖 <a name="ai-assistants-"></a>AI Assistants
 
