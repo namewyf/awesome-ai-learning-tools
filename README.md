@@ -227,9 +227,13 @@ Want to ask Claude about AI Learning Tools?
 
 Create a Project, then add this file to it:
 
-https://example.com/ai-learning-tools-full.txt
+- [resources/ai-learning-tools-full.md](resources/ai-learning-tools-full.md) — use the **Raw** view on GitHub to copy or download the latest version.
 
-Now Claude can answer questions about AI learning tools and how they work
+Now Claude can answer questions about AI learning tools and how they work. To keep the knowledge up to date:
+
+1. Download the file above and upload it to your Claude project (or paste the raw contents).
+2. Whenever new tools are added to this repository, replace the uploaded file with the refreshed version.
+3. Ask Claude about the tools, categories, and icons referenced in the directory to explore the dataset interactively.
 
 - https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_ai_learning_tools/
 
