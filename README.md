@@ -30,15 +30,15 @@ AI Learning Tools are educational platforms, applications, and services that lev
 
 ## Getting Started
 
-* [Introduction to AI in Education](https://example.com) - Understanding how AI is transforming education
-* [Choosing the Right AI Learning Tool](https://example.com) - Guide to selecting tools based on your learning goals
-* [Best Practices for AI-Powered Learning](https://example.com) - Tips for effective learning with AI assistance
+* [Introduction to AI in Education](https://www.unesco.org/en/artificial-intelligence/education) - Overview of how UNESCO sees AI transforming teaching and learning worldwide
+* [Choosing the Right AI Learning Tool](https://www.iste.org/explore/professional-development/how-evaluate-artificial-intelligence-tools-classroom) - ISTE framework for selecting tools aligned with instructional goals and student needs
+* [Best Practices for AI-Powered Learning](https://www.brookings.edu/articles/how-educators-can-approach-generative-ai/) - Brookings guidance on integrating generative AI responsibly into learning experiences
 
 ## Community
 
-* [r/AILEARNING Reddit](https://www.reddit.com/r/AILEARNING)
-* [AI Learning Tools Discord](https://discord.gg/AILEARNING)
-* [Educational AI Forum](https://forum.example.com)
+* [TeachAI Community](https://teachai.org/community) - Global educator network exploring policy, practice, and resources for AI in classrooms
+* [OpenAI Educator Forum](https://community.openai.com/c/ai-education/94) - Discussions on leveraging OpenAI tools for instruction, assessment, and student support
+* [r/EdTech](https://www.reddit.com/r/EdTech/) - Reddit community sharing news, tools, and classroom experiences with emerging EdTech and AI
 
 ## Legend
 
