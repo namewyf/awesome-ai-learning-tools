@@ -1,4 +1,4 @@
-# 日本語版 AI 学習ツール [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 素晴らしい AI 学習ツール [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
@@ -8,222 +8,243 @@
 [![한국어](https://img.shields.io/badge/한국어-클릭-yellow)](README-ko.md)
 [![Português Brasileiro](https://img.shields.io/badge/Português_Brasileiro-Clique-green)](README-pt_BR.md)
 
-AIを活用した優れた学習ツール、プラットフォーム、リソースのキュレーションリスト。教育、スキル開発、知識向上のためのコレクション。
+教育、スキル開発、知識向上のための素晴らしい AI 駆動学習ツール、プラットフォーム、リソースの厳選リスト。
 
-* [What are AI Learning Tools?](#what-are-ai-learning-tools)
-* [Getting Started](#getting-started)
-* [Community](#community)
-* [Legend](#legend)
-* [Learning Platforms](#learning-platforms-)
-* [Interactive Tools](#interactive-tools-)
-* [Development Environments](#development-environments-)
-* [Educational Resources](#educational-resources-)
-* [Writing Assistants](#writing-assistants-)
-* [AI Assistants](#ai-assistants-)
-* [Gamified Learning](#gamified-learning-)
-* [Assessment Tools](#assessment-tools-)
-* [Community Platforms](#community-platforms-)
+* [AI 学習ツールとは？](#what-are-ai-learning-tools)
+* [始め方](#getting-started)
+* [コミュニティ](#community)
+* [凡例](#legend)
+* [学習プラットフォーム](#learning-platforms-)
+* [インタラクティブツール](#interactive-tools-)
+* [開発環境](#development-environments-)
+* [教育リソース](#educational-resources-)
+* [ライティングアシスタント](#writing-assistants-)
+* [AI アシスタント](#ai-assistants-)
+* [ゲーム化学習](#gamified-learning-)
+* [評価ツール](#assessment-tools-)
+* [コミュニティプラットフォーム](#community-platforms-)
 
-## What are AI Learning Tools?
+## AI 学習ツールとは？
 
-AI Learning Tools are educational platforms, applications, and services that leverage artificial intelligence to enhance the learning experience. These tools provide personalized learning paths, intelligent tutoring, adaptive content delivery, automated assessments, and interactive learning experiences across various domains including programming, languages, professional skills, and academic subjects.
+AI 学習ツールは、学習体験を向上させるために人工知能を活用した教育プラットフォーム、アプリケーション、サービスです。これらのツールは、プログラミング、言語、専門スキル、学術科目を含むさまざまなドメインで、パーソナライズされた学習パス、インテリジェントチュータリング、適応型コンテンツ配信、自動評価、インタラクティブな学習体験を提供します。
 
-## Getting Started
+## 始め方
 
-* [Introduction to AI in Education](https://example.com) - Understanding how AI is transforming education
-* [Choosing the Right AI Learning Tool](https://example.com) - Guide to selecting tools based on your learning goals
-* [Best Practices for AI-Powered Learning](https://example.com) - Tips for effective learning with AI assistance
+* [教育における AI の紹介](https://www.unesco.org/en/artificial-intelligence/education) - UNESCO が AI が世界中の教えと学びをどのように変革するかを概説
+* [適切な AI 学習ツールの選択](https://www.iste.org/explore/professional-development/how-evaluate-artificial-intelligence-tools-classroom) - 指導目標と生徒のニーズに適合したツールを選択するための ISTE フレームワーク
+* [AI 駆動学習のベストプラクティス](https://www.brookings.edu/articles/how-educators-can-approach-generative-ai/) - Brookings が生成 AI を学習体験に責任を持って統合するためのガイダンス
 
-## Community
+## コミュニティ
 
-* [r/AILEARNING Reddit](https://www.reddit.com/r/AILEARNING)
-* [AI Learning Tools Discord](https://discord.gg/AILEARNING)
-* [Educational AI Forum](https://forum.example.com)
+* [TeachAI コミュニティ](https://teachai.org/community) - 教室での AI に関する政策、実践、リソースを探求するグローバル教育者ネットワーク
+* [OpenAI 教育者フォーラム](https://community.openai.com/c/ai-education/94) - OpenAI ツールを指導、評価、生徒支援に活用する議論
+* [r/EdTech](https://www.reddit.com/r/EdTech/) - 新興 EdTech と AI のニュース、ツール、教室体験を共有する Reddit コミュニティ
 
-## Legend
+## 凡例
 
-* 🎓 **Learning Categories**
-  * 🎓 - Learning Platforms (Structured courses and MOOCs)
-  * 🛠️ - Interactive Tools (Hands-on learning environments)
-  * 💻 - Development Environments (Coding platforms and IDEs)
-  * 📚 - Educational Resources (Documentation, tutorials, books)
-  * ✍️ - Writing Assistants (AI-powered writing and grammar tools)
-  * 🤖 - AI Assistants (Learning-focused AI tools)
-  * 🎮 - Gamified Learning (Game-based educational tools)
-  * 📊 - Assessment Tools (Testing and evaluation platforms)
-  * 👥 - Community Platforms (Collaborative learning spaces)
+* 🎓 **学習カテゴリ**
+  * 🎓 - 学習プラットフォーム (構造化コースと MOOCs)
+  * 🛠️ - インタラクティブツール (ハンズオン学習環境)
+  * 💻 - 開発環境 (コーディングプラットフォームと IDEs)
+  * 📚 - 教育リソース (ドキュメント、チュートリアル、書籍)
+  * ✍️ - ライティングアシスタント (AI 駆動の執筆と文法ツール)
+  * 🤖 - AI アシスタント (学習に焦点を当てた AI ツール)
+  * 🎮 - ゲーム化学習 (ゲームベースの教育ツール)
+  * 📊 - 評価ツール (テストと評価プラットフォーム)
+  * 👥 - コミュニティプラットフォーム (協力学習スペース)
 
-* 🟢 **Skill Level**
-  * 🟢 - Beginner (Entry-level, no prior experience needed)
-  * 🟡 - Intermediate (Some background knowledge required)
-  * 🔴 - Advanced (Expertise or strong foundation needed)
+* 🟢 **スキルレベル**
+  * 🟢 - 初心者 (入門レベル、事前経験不要)
+  * 🟡 - 中級 (いくつかの背景知識が必要)
+  * 🔴 - 上級 (専門知識または強固な基礎が必要)
 
-* 📖 **Learning Style**
-  * 📖 - Reading-based (Text, documentation, articles)
-  * 🎥 - Video-based (Lectures, tutorials, demonstrations)
-  * 🎯 - Interactive (Hands-on practice, simulations)
-  * 👂 - Audio-based (Podcasts, audio lessons)
-  * 💬 - Discussion-based (Forums, chat, peer learning)
+* 📖 **学習スタイル**
+  * 📖 - 読みベース (テキスト、ドキュメント、記事)
+  * 🎥 - ビデオベース (講義、チュートリアル、デモンストレーション)
+  * 🎯 - インタラクティブ (ハンズオン練習、シミュレーション)
+  * 👂 - オーディオベース (ポッドキャスト、オーディオレッスン)
+  * 💬 - ディスカッションベース (フォーラム、チャット、ピア学習)
 
-* 💰 **Pricing Model**
-  * 💰 - Free (Completely free to use)
-  * 💵 - Freemium (Free basic features, paid premium)
-  * 💎 - Paid (Subscription or one-time purchase required)
+* 💰 **価格モデル**
+  * 💰 - 無料 (完全に無料で使用可能)
+  * 💵 - Freemium (基本機能無料、プレミアム有料)
+  * 💎 - 有料 (サブスクリプションまたは一回払いが必要)
 
-* 🌐 **Platform Availability**
-  * 🌐 - Web-based (Browser accessible)
-  * 📱 - Mobile (iOS/Android apps)
-  * 🖥️ - Desktop (Native desktop applications)
-  * 🎮 - Cross-platform (Available on multiple platforms)
-
-> [!NOTE]
-> **How to use the legend**: Each tool entry includes relevant icons to help you quickly identify its characteristics. For example: `🎓 🟢 📖 💰 🌐` means it's a learning platform for beginners, text-based, free, and web-based.
-
-## AI Learning Tools Directory
+* 🌐 **プラットフォーム可用性**
+  * 🌐 - Web ベース (ブラウザアクセス)
+  * 📱 - モバイル (iOS/Android アプリ)
+  * 🖥️ - デスクトップ (ネイティブデスクトップアプリケーション)
+  * 🎮 - クロスプラットフォーム (複数プラットフォームで利用可能)
 
 > [!NOTE]
-> This directory is continuously updated with the best AI-powered learning tools. Contribute to help us grow this collection!
+> **凡例の使い方**: 各ツールエントリには関連アイコンが含まれており、特徴を素早く識別できます。例えば: `🎓 🟢 📖 💰 🌐` は初心者向け学習プラットフォーム、テキストベース、無料、Web ベースを意味します。
 
-* 🎓 - [Learning Platforms](#learning-platforms-)
-* 🛠️ - [Interactive Tools](#interactive-tools-)
-* 💻 - [Development Environments](#development-environments-)
-* 📚 - [Educational Resources](#educational-resources-)
-* ✍️ - [Writing Assistants](#writing-assistants-)
-* 🤖 - [AI Assistants](#ai-assistants-)
-* 🎮 - [Gamified Learning](#gamified-learning-)
-* 📊 - [Assessment Tools](#assessment-tools-)
-* 👥 - [Community Platforms](#community-platforms-)
+## AI 学習ツールディレクトリ
+
+> [!NOTE]
+> このディレクトリは、最高の AI 駆動学習ツールで継続的に更新されます。このコレクションを成長させるために貢献してください！
+
+含めるためには、各リソースは教え、学び、または学術ワークフローをサポートする明確な AI 強化機能をデモンストレートする必要があります。私たちは積極的な開発、教育用途の透明な価格設定、検証可能な更新を優先します。エントリは毎月のリフレッシュ中にレビューされ、ディレクトリを最新のリリースまたは機能発表で最新に保ちます。
+
+* 🎓 - [学習プラットフォーム](#learning-platforms-)
+* 🛠️ - [インタラクティブツール](#interactive-tools-)
+* 💻 - [開発環境](#development-environments-)
+* 📚 - [教育リソース](#educational-resources-)
+* ✍️ - [ライティングアシスタント](#writing-assistants-)
+* 🤖 - [AI アシスタント](#ai-assistants-)
+* 🎮 - [ゲーム化学習](#gamified-learning-)
+* 📊 - [評価ツール](#assessment-tools-)
+* 👥 - [コミュニティプラットフォーム](#community-platforms-)
 
 
-### 🎓 <a name="learning-platforms-"></a>Learning Platforms
+### 🎓 <a name="learning-platforms-"></a>学習プラットフォーム
 
-Structured online learning platforms that use AI to provide personalized courses, adaptive learning paths, and intelligent tutoring systems.
+AI を使用してパーソナライズされたコース、適応型学習パス、インテリジェントチュータリングシステムを提供する構造化オンライン学習プラットフォーム。
 
-- [Coursera](https://www.coursera.org/) 🎓 🟢 🎥 💵 🌐 - AI-powered course recommendations and personalized learning paths with university-level content
-- [Khan Academy](https://www.khanacademy.org/) 🎓 🟢 🎥 💰 🌐 📱 - Adaptive learning system with personalized practice exercises and instant feedback
-- [Duolingo](https://www.duolingo.com/) 🎓 🟢 🎯 💵 🌐 📱 - AI-driven language learning with personalized lessons and spaced repetition
-- [edX](https://www.edx.org/) 🎓 🟡 🎥 💵 🌐 - Microlearning courses with AI-enhanced content recommendations and learning analytics
-- [Docebo](https://www.docebo.com/) 🎓 🟡 🎥 💎 🌐 - AI-powered learning platform with content recommendations, skill gap analysis, and personalized learning paths
-- [Sana Labs](https://www.sanalabs.com/) 🎓 🟡 💬 💎 🌐 - AI learning platform that personalizes educational content and adapts to individual learning patterns
-- [CYPHER Learning](https://www.cypherlearning.com/) 🎓 🟡 🎥 💎 🌐 - Modern learning platform with AI-driven course creation, assessment, and analytics
-- [WorkRamp](https://www.workramp.com/) 🎓 🟡 🎯 💎 🌐 - AI-powered customer and employee training platform with personalized learning paths
-### 🛠️ <a name="interactive-tools-"></a>Interactive Tools
+- [Coursera](https://www.coursera.org/) 🎓 🟢 🎥 💵 🌐 - AI 駆動コース推薦とパーソナライズ学習パス、大学レベルのコンテンツ
+- [Khan Academy](https://www.khanacademy.org/) 🎓 🟢 🎥 💰 🌐 📱 - 適応型学習システム、パーソナライズ練習と即時フィードバック
+- [Duolingo](https://www.duolingo.com/) 🎓 🟢 🎯 💵 🌐 📱 - AI 駆動言語学習、パーソナライズレッスンとスペースドリピティション
+- [edX](https://www.edx.org/) 🎓 🟡 🎥 💵 🌐 - マイクロラーニングコース、AI 強化コンテンツ推薦と学習分析
+- [Docebo](https://www.docebo.com/) 🎓 🟡 🎥 💎 🌐 - AI 駆動学習プラットフォーム、コンテンツ推薦、スキルギャップ分析、パーソナライズ学習パス
+- [Sana Labs](https://www.sanalabs.com/) 🎓 🟡 💬 💎 🌐 - AI 学習プラットフォーム、教育コンテンツをパーソナライズし、個々の学習パターンに適応
+- [CYPHER Learning](https://www.cypherlearning.com/) 🎓 🟡 🎥 💎 🌐 - 現代学習プラットフォーム、AI 駆動コース作成、評価、分析
+- [WorkRamp](https://www.workramp.com/) 🎓 🟡 🎯 💎 🌐 - AI 駆動顧客および従業員トレーニングプラットフォーム、パーソナライズ学習パス
+- [Fireflies.ai](https://fireflies.ai/) 🎓 🟡 👂 💵 🌐 - AI ミーティングアシスタント、会話の録音、転写、分析を学習用に
+- [EdApp](https://www.edapp.com/) 🎓 🟢 🎯 💵 🌐 📱 - マイクロラーニングプラットフォーム、AI 駆動コンテンツ作成と分析
+- [Continu](https://www.continu.co/) 🎓 🟡 🎯 💵 🌐 - AI 駆動トレーニングプラットフォーム、顧客教育と従業員開発用
+- [Zavvy](https://zavvy.io/) 🎓 🟡 💬 💵 🌐 - AI 駆動プラットフォーム、オンボーディング、トレーニング、従業員開発用
+- [LearnUpon](https://www.learnupon.com/) 🎓 🟡 🎥 💎 🌐 - 学習管理システム、コース作成とエンゲージメントのための AI 機能
+- [Thinkific](https://www.thinkific.com/) 🎓 🟡 🎥 💵 🌐 - オンラインコースプラットフォーム、コンテンツ作成と生徒エンゲージメントのための AI ツール
+- [Kajabi](https://kajabi.com/) 🎓 🟡 🎥 💎 🌐 - オンラインコース作成と販売のためのオールインワンプラットフォーム、AI 駆動マーケティング
+- [Paradiso LMS](https://www.paradisosolutions.com/) 🎓 🟡 🎥 💎 🌐 - エンタープライズ学習プラットフォーム、AI 駆動パーソナライズと分析
+- [Absorb LMS](https://www.absorblms.com/) 🎓 🟡 🎥 💎 🌐 - クラウドベース学習管理システム、AI 強化コンテンツ配信
 
-Hands-on learning environments and simulators that provide interactive experiences for skill development and concept understanding.
+### 🛠️ <a name="interactive-tools-"></a>インタラクティブツール
 
-- [Codecademy](https://www.codecademy.com/) 🛠️ 🟢 🎯 💵 🌐 📱 - Interactive coding lessons with instant feedback and AI-powered code review
-- [Brilliant.org](https://brilliant.org/) 🛠️ 🟢 🎯 💵 🌐 📱 - Interactive STEM learning with guided problem-solving and visual simulations
-- [PhET Interactive Simulations](https://phet.colorado.edu/) 🛠️ 🟢 🎯 💰 🌐 - Science and math simulations with inquiry-based learning approach
-- [Replit](https://replit.com/) 🛠️ 🟢 🎯 💵 🌐 - Online coding environment with AI assistance and collaborative features
+スキル開発と概念理解のためのインタラクティブ体験を提供するハンズオン学習環境とシミュレーター。
 
-### 💻 <a name="development-environments-"></a>Development Environments
+- [Codecademy](https://www.codecademy.com/) 🛠️ 🟢 🎯 💵 🌐 📱 - 即時フィードバックと AI 駆動コードレビュー付きインタラクティブコーディングレッスン
+- [Brilliant.org](https://brilliant.org/) 🛠️ 🟢 🎯 💵 🌐 📱 - ガイド付き問題解決と視覚シミュレーション付きインタラクティブ STEM 学習
+- [PhET Interactive Simulations](https://phet.colorado.edu/) 🛠️ 🟢 🎯 💰 🌐 - 探究ベース学習アプローチの科学と数学シミュレーション
+- [Replit](https://replit.com/) 🛠️ 🟢 🎯 💵 🌐 - AI アシスタンスとコラボレーション機能付きオンラインコーディング環境
+- [Labster](https://www.labster.com/) 🛠️ 🟡 🎯 💎 🌐 - AI 駆動フィードバックと適応型実験パス付き仮想科学ラボ
 
-AI-powered coding platforms, IDEs, and development tools that provide intelligent code suggestions, debugging assistance, and learning support.
+### 💻 <a name="development-environments-"></a>開発環境
 
-- [GitHub Copilot](https://github.com/features/copilot) 💻 🟡 🎯 💎 🌐 📱 - AI pair programmer that suggests code completions and entire functions in real-time
-- [Tabnine](https://www.tabnine.com/) 💻 🟢 🎯 💵 🌐 📱 🖥️ - AI assistant for code completion with support for multiple languages and IDEs
-- [Replit AI](https://replit.com/ai) 💻 🟢 🎯 💵 🌐 - AI-powered coding assistant integrated into the Replit development environment
-- [CodeWhisperer](https://aws.amazon.com/codewhisperer/) 💻 🟢 🎯 💵 🌐 🖥️ - Amazon's AI coding companion that provides real-time code recommendations
+インテリジェントコード提案、デバッグアシスタンス、学習サポートを提供する AI 駆動コーディングプラットフォーム、IDEs、開発ツール。
 
-### 📚 <a name="educational-resources-"></a>Educational Resources
+- [GitHub Copilot](https://github.com/features/copilot) 💻 🟡 🎯 💎 🌐 📱 - リアルタイムでコード補完と全体関数を提案する AI ペアプログラマー
+- [Tabnine](https://www.tabnine.com/) 💻 🟢 🎯 💵 🌐 📱 🖥️ - 複数言語と IDE をサポートするコード補完 AI アシスタント
+- [Replit AI](https://replit.com/ai) 💻 🟢 🎯 💵 🌐 - Replit 開発環境に統合された AI 駆動コーディングアシスタント
+- [CodeWhisperer](https://aws.amazon.com/codewhisperer/) 💻 🟢 🎯 💵 🌐 🖥️ - Amazon の AI コーディングコンパニオン、リアルタイムコード推薦を提供
+- [Cursor](https://www.cursor.com/) 💻 🟡 🎯 💵 🖥️ - コンテキスト提案、リファクタリング、エディタ内学習Tipsを提供する AI ファーストコードエディタ
+- [Mutable AI](https://www.mutable.ai/) 💻 🟡 🎯 💵 🌐 - 説明可能補完と教育コードウォークスルー付き AI アシスト開発ワークスペース
 
-AI-enhanced educational content, adaptive textbooks, intelligent tutoring systems, and personalized learning materials.
+### 📚 <a name="educational-resources-"></a>教育リソース
 
-- [Khanmigo](https://www.khanacademy.org/khan-labs) 📚 🟢 💬 💵 🌐 - AI-powered tutor that provides personalized guidance and practice across subjects
-- [MagicSchool.ai](https://app.magicschool.ai) 📚 🟢 💬 💵 🌐 - AI platform for teachers with tools for lesson planning, content creation, and student assessment
-- [Curipod](https://curipod.com/) 📚 🟢 📖 💵 🌐 - AI-powered lesson planning platform that generates engaging educational content and activities
-- [Diffit](https://web.diffit.me) 📚 🟢 📖 💰 🌐 - AI tool that creates differentiated learning materials and adapted content for diverse student needs
-- [Socratic by Google](https://socratic.org/) 📚 🟢 📖 💰 🌐 📱 - AI learning app that provides visual explanations for homework questions
-- [Photomath](https://photomath.com/) 📚 🟢 📖 💵 🌐 📱 - AI-powered math solver with step-by-step explanations and visual learning
-- [ChatGPT for Education](https://openai.com/chatgpt/education) 📚 🟢 📖 💵 🌐 📱 - AI assistant for personalized learning, homework help, and educational content creation
+AI 強化教育コンテンツ、適応型教科書、インテリジェントチュータリングシステム、パーソナライズ学習材料。
 
-### ✍️ <a name="writing-assistants-"></a>Writing Assistants
+- [Khanmigo](https://www.khanacademy.org/khan-labs) 📚 🟢 💬 💵 🌐 - 科目全体のパーソナライズ指導と練習を提供する AI 駆動チューター
+- [MagicSchool.ai](https://app.magicschool.ai) 📚 🟢 💬 💵 🌐 - レッスン計画、コンテンツ作成、生徒評価ツール付き教師用 AI プラットフォーム
+- [Curipod](https://curipod.com/) 📚 🟢 📖 💵 🌐 - 魅力的な教育コンテンツと活動を生成する AI 駆動レッスン計画プラットフォーム
+- [Diffit](https://web.diffit.me) 📚 🟢 📖 💰 🌐 - 多様な生徒ニーズに適応した差別化学習材料を作成する AI ツール
+- [Socratic by Google](https://socratic.org/) 📚 🟢 📖 💰 🌐 📱 - 宿題質問の視覚説明を提供する AI 学習アプリ
+- [Photomath](https://photomath.com/) 📚 🟢 📖 💵 🌐 📱 - ステップバイステップ説明と視覚学習付き AI 駆動数学ソルバー
+- [ChatGPT for Education](https://openai.com/chatgpt/education) 📚 🟢 📖 💵 🌐 📱 - パーソナライズ学習、宿題ヘルプ、教育コンテンツ作成のための AI アシスタント
 
-AI-powered tools specifically designed to improve writing skills, grammar, and content creation for educational purposes.
+### ✍️ <a name="writing-assistants-"></a>ライティングアシスタント
 
-- [Grammarly](https://www.grammarly.com/) ✍️ 🟢 📖 💵 🌐 📱 - AI-powered writing assistant that provides grammar checking, style suggestions, and writing improvement
-- [Quillbot](https://quillbot.com/) ✍️ 🟢 📖 💵 🌐 📱 - AI-powered paraphrasing tool that helps improve writing clarity, tone, and style
-- [Otter AI](https://otter.ai/) ✍️ 🟡 👂 💵 🌐 📱 - AI transcription service that converts speech to text, perfect for lecture notes and meeting summaries
+教育目的の執筆スキル、文法、コンテンツ作成を改善するために特別設計された AI 駆動ツール。
 
-### 🤖 <a name="ai-assistants-"></a>AI Assistants
+- [Grammarly](https://www.grammarly.com/) ✍️ 🟢 📖 💵 🌐 📱 - 文法チェック、スタイル提案、執筆改善を提供する AI 駆動ライティングアシスタント
+- [Quillbot](https://quillbot.com/) ✍️ 🟢 📖 💵 🌐 📱 - 明瞭さ、トーン、スタイルを改善する AI 駆動パラフレーズツール
+- [Otter AI](https://otter.ai/) ✍️ 🟡 👂 💵 🌐 📱 - 音声をテキストに変換する AI 転写サービス、講義ノートとミーティング要約に最適
+- [Wordtune](https://www.wordtune.com/) ✍️ 🟢 📖 💵 🌐 📱 - エッセイと課題のためのリライト提案とレッスン対応フレーズを提供する AI ライティングコンパニオン
+- [Writefull](https://www.writefull.com/) ✍️ 🟡 📖 💵 🌐 - 学問分野特定言語フィードバックと引用サポート付き AI アカデミックライティングアシスタント
 
-Specialized AI assistants and chatbots designed for learning, tutoring, and educational support across various domains.
+### 🤖 <a name="ai-assistants-"></a>AI アシスタント
 
-- [ChatGPT](https://chat.openai.com/) 🤖 🟢 💬 💵 🌐 📱 - Versatile AI assistant for learning, problem-solving, and knowledge exploration across all subjects
-- [Claude](https://claude.ai/) 🤖 🟡 💬 💵 🌐 📱 - AI assistant for detailed explanations, analysis, and comprehensive learning support
-- [Google Gemini](https://gemini.google.com/) 🤖 🟢 💬 💰 🌐 📱 - Google's AI assistant with multimodal capabilities for learning and creative tasks
-- [Perplexity AI](https://www.perplexity.ai/) 🤖 🟡 💬 💵 🌐 📱 - AI-powered search and answer engine with cited sources for research learning
-- [Tutor AI](https://www.tutorai.me/) 🤖 🟢 💬 💰 🌐 - Personalized AI tutor that creates customized learning experiences on any topic
-- [Elicit](https://elicit.org/) 🤖 🟡 📖 💵 🌐 - AI research assistant that helps find relevant papers and answer research questions
-- [NotebookLM](https://notebooklm.google/) 🤖 🟡 📖 💰 🌐 - GoogleのAI駆動ノートブック。文書やメモを対話的な会話に変換
-- [Langua](https://langua.ai/) 🤖 🟢 💬 💵 🌐 📱 - AI言語学習パートナー。会話の練習と流暢さの向上
-- [AI Anki](https://ai-anki.top/) 🤖 🟢 📖 💰 🌐 - AI駆動のフラッシュカードシステム。インテリジェントな間隔反復カードを生成
+さまざまなドメインでの学習、チュータリング、教育サポートのために設計された専門 AI アシスタントとチャットボット。
 
-### 🎮 <a name="gamified-learning-"></a>Gamified Learning
+- [ChatGPT](https://chat.openai.com/) 🤖 🟢 💬 💵 🌐 📱 - すべての科目での学習、問題解決、知識探求のための汎用 AI アシスタント
+- [Claude](https://claude.ai/) 🤖 🟡 💬 💵 🌐 📱 - 詳細説明、分析、包括的な学習サポートのための AI アシスタント
+- [Google Gemini](https://gemini.google.com/) 🤖 🟢 💬 💰 🌐 📱 - 学習と創造タスクのためのマルチモーダル機能付き Google の AI アシスタント
+- [Perplexity AI](https://www.perplexity.ai/) 🤖 🟡 💬 💵 🌐 📱 - 引用ソース付き AI 駆動検索と回答エンジン、研究学習用
+- [Tutor AI](https://www.tutorai.me/) 🤖 🟢 💬 💰 🌐 - 任意のトピックでカスタム学習体験を作成するパーソナライズ AI チューター
+- [Elicit](https://elicit.org/) 🤖 🟡 📖 💵 🌐 - 関連論文を見つけ、研究質問に答える AI リサーチアシスタント
+- [NotebookLM](https://notebooklm.google/) 🤖 🟡 📖 💰 🌐 - ドキュメントとノートをインタラクティブ会話に変換する Google の AI 駆動ノートブック
+- [Langua](https://langua.ai/) 🤖 🟢 💬 💵 🌐 📱 - 会話練習と流暢さ向上のための AI 言語学習コンパニオン
+- [AI Anki](https://ai-anki.top/) 🤖 🟢 📖 💰 🌐 - インテリジェントスペースドリピティションカードを生成する AI 駆動フラッシュカードシステム
 
-AI-enhanced educational games and platforms that make learning engaging through game mechanics, competitions, and rewards.
+### 🎮 <a name="gamified-learning-"></a>ゲーム化学習
 
-- [Prodigy Math](https://www.prodigygame.com/) 🎮 🟢 🎯 💵 🌐 📱 - Adaptive math game that uses AI to personalize learning paths and difficulty
-- [Kahoot! with AI](https://kahoot.com/) 🎮 🟢 🎯 💵 🌐 📱 - Game-based learning platform with AI-generated content and personalized recommendations
-- [Memrise](https://www.memrise.com/) 🎮 🟢 🎯 💵 🌐 📱 - Language learning app with AI-powered spaced repetition and memory optimization
-- [Epic!](https://www.getepic.com/) 🎮 🟢 📖 💵 🌐 📱 - Digital library with AI-powered reading recommendations and personalized learning tracks
-- [Knowji](https://www.knowji.com/) 🎮 🟢 📖 💵 🌐 📱 - AI駆動の語彙学習アプリ。間隔反復と視覚的記憶術付き
+学習をゲームメカニクス、競争、リワードを通じて魅力的にする AI 強化教育ゲームとプラットフォーム。
 
-### 📊 <a name="assessment-tools-"></a>Assessment Tools
+- [Prodigy Math](https://www.prodigygame.com/) 🎮 🟢 🎯 💵 🌐 📱 - AI を使用して学習パスと難易度をパーソナライズする適応型数学ゲーム
+- [Kahoot! with AI](https://kahoot.com/) 🎮 🟢 🎯 💵 🌐 📱 - AI 生成コンテンツとパーソナライズ推薦付きゲームベース学習プラットフォーム
+- [Memrise](https://www.memrise.com/) 🎮 🟢 🎯 💵 🌐 📱 - AI 駆動スペースドリピティションとメモリ最適化付き言語学習アプリ
+- [Epic!](https://www.getepic.com/) 🎮 🟢 📖 💵 🌐 📱 - AI 駆動読書推薦とパーソナライズ学習トラック付きデジタルライブラリ
+- [Knowji](https://www.knowji.com/) 🎮 🟢 📖 💵 🌐 📱 - スペースドリピティションと視覚ニーモニック付き AI 駆動語彙学習アプリ
 
-AI-powered assessment and evaluation platforms that provide intelligent testing, skill measurement, and learning analytics.
+### 📊 <a name="assessment-tools-"></a>評価ツール
 
-- [Gradescope](https://www.gradescope.com/) 📊 🟡 📖 💵 🌐 - AI-assisted grading platform that provides detailed feedback and analytics
-- [Magoosh](https://magoosh.com/) 📊 🟡 📖 💵 🌐 📱 - Test preparation platform with AI-powered practice questions and performance analytics
-- [Quizlet](https://quizlet.com/) 📊 🟢 🎯 💵 🌐 📱 - Study platform with AI-generated flashcards and adaptive learning modes
-- [Pear Deck](https://www.peardeck.com/) 📊 🟢 🎯 💵 🌐 - Interactive presentation tool with AI-powered engagement and assessment features
-- [Course Hero](https://www.coursehero.com/) 📊 🟢 📖 💵 🌐 📱 - AI駆動の学習プラットフォーム。コース固有のリソース、練習問題、チューターを提供
-- [TurboLearn AI](https://www.turbolearn.ai/) 📊 🟢 📖 💵 🌐 - 任意のコンテンツから要約、フラッシュカード、学習教材を生成するAIツール
-- [Eduaide.AI](https://www.eduaide.ai/) 📊 🟢 💬 💰 🌐 - AI教育アシスタント。レッスン計画、評価、教育コンテンツを作成
-- [Mindgrasp](https://www.mindgrasp.ai/) 📊 🟢 📖 💵 🌐 📱 - 動画、記事、文書を即座に重要なポイントに要約するAIツール
+インテリジェントテスト、スキル測定、学習分析を提供する AI 駆動評価と評価プラットフォーム。
 
-### 👥 <a name="community-platforms-"></a>Community Platforms
+- [Gradescope](https://www.gradescope.com/) 📊 🟡 📖 💵 🌐 - 詳細フィードバックと分析を提供する AI アシスト採点プラットフォーム
+- [Course Hero](https://www.coursehero.com/) 📊 🟢 📖 💵 🌐 📱 - コース特定リソース、練習問題、チュータリング付き AI 駆動学習プラットフォーム
+- [TurboLearn AI](https://www.turbolearn.ai/) 📊 🟢 📖 💵 🌐 - 任意のコンテンツから要約、フラッシュカード、学習材料を生成する AI ツール
+- [Eduaide.AI](https://www.eduaide.ai/) 📊 🟢 💬 💰 🌐 - レッスンプラン、評価、教育コンテンツを作成する AI ティーチングアシスタント
+- [Mindgrasp](https://www.mindgrasp.ai/) 📊 🟢 📖 💵 🌐 📱 - ビデオ、記事、ドキュメントを即座にキーポイントに要約する AI ツール
+- [Magoosh](https://magoosh.com/) 📊 🟡 📖 💵 🌐 📱 - AI 駆動練習問題とパフォーマンス分析付きテスト準備プラットフォーム
+- [Quizlet](https://quizlet.com/) 📊 🟢 🎯 💵 🌐 📱 - AI 生成フラッシュカードと適応型学習モード付き学習プラットフォーム
+- [Pear Deck](https://www.peardeck.com/) 📊 🟢 🎯 💵 🌐 - AI 駆動エンゲージメントと評価機能付きインタラクティブプレゼンテーションツール
 
-Collaborative learning environments and social platforms that leverage AI to facilitate peer learning, discussions, and knowledge sharing.
+### 👥 <a name="community-platforms-"></a>コミュニティプラットフォーム
 
-- [Discord Education Servers](https://discord.com/servers) 👥 🟢 💬 💰 🌐 📱 - Community servers with AI bots for study groups and collaborative learning
-- [Reddit Learning Communities](https://www.reddit.com/) 👥 🟢 💬 💰 🌐 📱 - Topic-based communities with AI-powered content moderation and recommendations
-- [Stack Exchange Network](https://stackexchange.com/) 👥 🟡 💬 💰 🌐 - Q&A platform with AI-powered duplicate detection and expert matching
-- [Piazza](https://piazza.com/) 👥 🟢 💬 💵 🌐 - Class discussion platform with AI-assisted question answering and collaboration tools
+ピア学習、議論、知識共有を促進するために AI を活用した協力学習環境とソーシャルプラットフォーム。
+
+- [Discord Education Servers](https://discord.com/servers) 👥 🟢 💬 💰 🌐 📱 - 学習グループと協力学習のための AI ボット付きコミュニティサーバー
+- [Reddit Learning Communities](https://www.reddit.com/) 👥 🟢 💬 💰 🌐 📱 - AI 駆動コンテンツモデレーションと推薦付きトピックベースコミュニティ
+- [Stack Exchange Network](https://stackexchange.com/) 👥 🟡 💬 💰 🌐 - AI 駆動重複検出と専門家マッチング付き Q&A プラットフォーム
+- [Piazza](https://piazza.com/) 👥 🟢 💬 💵 🌐 - AI アシスト質問回答とコラボレーションツール付きクラスディスカッションプラットフォーム
 
 ---
 
-## Getting Started with AI Learning Tools
+## AI 学習ツールの始め方
 
-New to AI-powered learning? Here's how to get started:
+AI 駆動学習が初めてですか？始め方はこちら：
 
-1. **Identify Your Learning Goals**: Determine what skills or knowledge you want to acquire
-2. **Choose Your Learning Style**: Use our legend to find tools that match your preferred learning approach
-3. **Start with Free Options**: Many tools offer free tiers to get started without commitment
-4. **Combine Multiple Tools**: Create a learning ecosystem using tools from different categories
-5. **Track Your Progress**: Use assessment tools to monitor your learning journey
+1. **学習目標の特定**: 取得したいスキルや知識を決定
+2. **学習スタイルの選択**: 凡例を使用して好みの学習アプローチに一致するツールを見つける
+3. **無料オプションから開始**: 多くのツールがコミットメントなしで無料ティアを提供
+4. **複数のツールを組み合わせる**: 異なるカテゴリのツールを使用して学習エコシステムを作成
+5. **進捗を追跡**: 評価ツールを使用して学習ジャーニーを監視
 
-## Contributing
+## 貢献
 
-We welcome contributions to this list! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding new AI learning tools.
+このリストへの貢献を歓迎します！新しい AI 学習ツールを追加するためのガイドラインは [CONTRIBUTING.md](CONTRIBUTING.md) を参照してください。
 
-Want to ask Claude about AI Learning Tools?
+Claude に AI 学習ツールについて尋ねたいですか？
 
-Create a Project, then add this file to it:
+プロジェクトを作成し、このファイルを追加：
 
-https://example.com/ai-learning-tools-full.txt
+- [resources/ai-learning-tools-full.md](resources/ai-learning-tools-full.md) — GitHub の **Raw** ビューで最新バージョンをコピーまたはダウンロード。
 
-Now Claude can answer questions about AI learning tools and how they work
+今 Claude は AI 学習ツールとその動作についての質問に答えられます。知識を最新に保つために：
+
+1. 上記のファイルをダウンロードし、Claude プロジェクトにアップロード（または raw 内容を貼り付け）。
+2. このリポジトリに新しいツールが追加されるたびに、アップロードファイルをリフレッシュバージョンに置き換え。
+3. ディレクトリで参照されるツール、カテゴリ、アイコンについて Claude に尋ねて、データセットをインタラクティブに探索。
 
 - https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_ai_learning_tools/
 
 
-## Star History
+## スター履歴
 
-<a href="https://star-history.com/#YOUR_USERNAME/awesome-ai-learning-tools&Date">
+<a href="https://star-history.com/#namewyf/awesome-ai-learning-tools&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=YOUR_USERNAME/awesome-ai-learning-tools&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=YOUR_USERNAME/awesome-ai-learning-tools&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=YOUR_USERNAME/awesome-ai-learning-tools&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=namewyf/awesome-ai-learning-tools&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=namewyf/awesome-ai-learning-tools&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=namewyf/awesome-ai-learning-tools&type=Date" />
  </picture>
 </a>
