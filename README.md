@@ -209,6 +209,8 @@ Collaborative learning environments and social platforms that leverage AI to fac
 
 ---
 
+
+- **[LearnAI](https://www.uselearnai.com)** — 🗣️ Conversational AI tutor platform for Python, data science, AWS, DeFi, math, and language learning. Adaptive dialogue teaches concepts on demand. Free tier. `freemium` `multi-subject`
 ## Getting Started with AI Learning Tools
 
 New to AI-powered learning? Here's how to get started:
