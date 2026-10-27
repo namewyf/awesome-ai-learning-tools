@@ -160,6 +160,7 @@ AI-powered tools specifically designed to improve writing skills, grammar, and c
 - [Otter AI](https://otter.ai/) ✍️ 🟡 👂 💵 🌐 📱 - AI transcription service that converts speech to text, perfect for lecture notes and meeting summaries
 - [Wordtune](https://www.wordtune.com/) ✍️ 🟢 📖 💵 🌐 📱 - AI writing companion that suggests rewrites and lesson-ready phrasing for essays and assignments
 - [Writefull](https://www.writefull.com/) ✍️ 🟡 📖 💵 🌐 - AI academic writing assistant with discipline-specific language feedback and citation support
+- [桃李AI](https://taoliapp.com/) ✍️ 🟢 📖 💵 🌐 - AI end-of-term student comment generator for Chinese K-12 teachers (Excel import + multi-tag personalization)
 
 ### 🤖 <a name="ai-assistants-"></a>AI Assistants
 
